@@ -17,9 +17,9 @@ For the purpose of this analysis, the original dataset has been filtered to incl
 3. General - students who take credit and non-credit classes for personal interest, excluding transferable and vocational courses.
 
 ## Questions to Consider
-1. Did the Covid-19 pandemic have a discernible impact on student enrollment in Community Colleges? What does the data indicate about the pre-pandemic enrollment trends over a two-year period, and which colleges and regions experienced the highest enrollment rates?
+1. Did the Covid-19 pandemic have a discernible impact on student enrollment in Community Colleges? What does the data indicate about the pre-pandemic enrollment trends over a two-year period, and which colleges experienced the highest enrollment rates?
 2. Which type of enrollments were dominant during the years of study?
-3. With the limited post-pandemic data available, what conclusions can we draw regarding students' perceptions of education in community colleges?
+3. With the limited post-pandemic data available, what conclusions can we draw regarding students' perceptions of education in community colleges? Are students returning back to school?
 
 ## Code Features
 * Jupyter Notebook
