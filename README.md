@@ -1,5 +1,5 @@
-# California Community College Student Enrollment Analysis
-# Pre &amp; Post Covid-19 Pandemic
+# California Community College Student Enrollment Analysis_
+Pre &amp; Post Covid-19 Pandemic
 
 ## Introduction
 This project is an extension of one of the projects I did in my Intro to Data Science class. This project analyzes the data of student enrollment from all community colleges in California. The dataset categorizes the student enrollments into 3 main categories of transfer, vocational, and general. As the Covid-19 pandemic has subdued and life has restarted, we can start to analyze trends in the enrollment trend pre, during, and post pandemic. The project will display data cleaning using Pandas DataFrame and  display data visualization using Matplotlib.
