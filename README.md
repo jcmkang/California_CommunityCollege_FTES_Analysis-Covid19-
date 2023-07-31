@@ -1,7 +1,7 @@
 # California Community College Student Enrollment Analysis<br>Pre &amp; Post Covid-19 Pandemic
 
 ## About
-This is an extension of one of my previous projects completed during my Intro to Data Science class. The objective of this analysis is to examine student enrollment trends from all community colleges in California. The dataset encompasses the enrollment data of Full-Time Equivalent Students (FTES) in all community colleges across California during the academic years spanning from 2016 & 2017 through 2022 & 2023. With the Covid-19 pandemic having subsided and life gradually returning to normal, we have the opportunity to analyze enrollment trends before, during, and after the Covid-19 pandemic. The project will showcase data cleaning techniques using Pandas and employ data visualization using Matplotlib.
+This is an extension of one of my previous projects completed during my Intro to Data Science class. The objective of this analysis is to examine student enrollment trends from all community colleges in California pre and post Covid-19 pandemic. The dataset encompasses the enrollment data of Full-Time Equivalent Students (FTES) in all community colleges across California during the academic years spanning from 2016 & 2017 through 2022 & 2023. With the Covid-19 pandemic having subsided and life gradually returning to normal, we have the opportunity to analyze enrollment trends before, during, and after the Covid-19 pandemic. The project will showcase data cleaning techniques using Pandas and employ data visualization using Matplotlib.
 
 ## Source
 The dataset has been sourced from the [California Community Colleges Chancellor’s Office](https://datamart.cccco.edu/Students/FTES_Summary.aspx). 
