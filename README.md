@@ -21,9 +21,7 @@ The preliminary dataset has been filtered to only show the years 2016-2023 and b
 3. With the little data we have post pandemic, what are some conclusions we can draw from how students view education in the community college students? 
 
 ## Code Features
-Pandas DataFrame
-Numpy 
-Matplotlib
+Jupyter Notebook, Pandas DataFrame, Numpy, Matplotlib
 
 
 
